@@ -1,8 +1,11 @@
 
-DevSpace React Website
+DevSpace React Website :
+
+
 Welcome to the DevSpace React Website, an interactive platform built with React that leverages the JSONPlaceholder Fake API to simulate user profiles, posts, albums, and photos. This project is designed to provide a comprehensive exploration of React functionality, allowing users to navigate through various sections and manage content dynamically.
 
-Features
+Features  :
+
 User Section
 Discover detailed user profiles with rich information, creating a personalized experience for each user.
 
